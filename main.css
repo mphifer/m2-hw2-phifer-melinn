@@ -1,0 +1,21 @@
+body {
+  /* background-color: black; */
+}
+
+.container-fluid {
+  padding-top:45px;
+}
+
+.flex-column {
+  max-width: 300px;
+}
+
+img {
+  margin: 5px;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  padding-bottom: 20px;
+}
